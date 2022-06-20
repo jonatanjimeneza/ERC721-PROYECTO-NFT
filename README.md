@@ -26,6 +26,6 @@ Que vamos a ver?
 
 5. Mejora de nuestro Token NFT 
 
-Youtube:
+Youtube: https://youtu.be/EfIjUT8AiE4
 
 ![TOKEN ERC721](https://user-images.githubusercontent.com/101588200/174668051-222470b3-a053-4a18-8742-f01c4415418a.png)
